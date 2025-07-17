@@ -1,0 +1,1155 @@
+EMPLOYEE_ID;FULL_NAME;CATEGORY;EMPLOYMENT_DATE;BIRTH_DATE;EDUCATION_LEVEL;GENDER
+2;Whelply, Derrick;VP Country Manager;03/25/2002;05/30/1975;Graduate Degree;M
+3;Spence, Michael;VP Country Manager;11/28/2001;02/12/1970;Graduate Degree;M
+4;Gutierrez, Maya;VP Country Manager;05/18/2002;08/04/1973;Bachelors Degree;F
+5;Damstra, Roberta;VP Information Systems;07/30/2002;02/04/1966;Bachelors Degree;F
+6;Kanagaki, Rebecca;VP Human Resources;01/09/2004;09/20/1969;Bachelors Degree;F
+7;Brunner, Kim;Store Manager;04/28/2002;02/14/1968;Bachelors Degree;F
+8;Blumberg, Brenda;Store Manager;12/16/2001;11/10/1979;Graduate Degree;F
+9;Stanz, Darren;VP Finance;10/05/2004;07/12/1950;Partial College;M
+10;Murraiin, Jonathan;Store Manager;10/29/2002;05/13/1955;Graduate Degree;M
+11;Creek, Jewel;Store Manager;09/27/2002;01/25/1977;Graduate Degree;F
+12;Medina, Peggy;Store Manager;03/19/2003;06/16/1965;Bachelors Degree;F
+13;Rutledge, Bryan;Store Manager;08/11/2002;01/24/1961;Bachelors Degree;M
+14;Cavestany, Walter;Store Manager;01/17/2003;03/23/1970;Bachelors Degree;M
+15;Planck, Peggy;Store Manager;06/30/2002;12/15/1967;Bachelors Degree;F
+16;Marshall, Brenda;Store Manager;05/05/2002;02/03/1966;Partial College;F
+17;Wolter, Daniel;Store Manager;02/27/2002;03/11/1953;Partial College;M
+18;Collins, Dianne;Store Manager;07/26/2003;10/04/1964;Bachelors Degree;F
+19;Baker, Beverly;VP Country Manager;04/28/2002;10/16/1970;Bachelors Degree;F
+20;Castillo, Pedro;VP Country Manager;09/16/2001;11/18/1962;Bachelors Degree;M
+21;Borges, Laurie;VP Country Manager;02/17/2002;07/22/1968;Bachelors Degree;F
+22;Wyro, Shauna;Store Manager;01/21/2002;02/22/1957;Bachelors Degree;F
+23;Wyllie, Jacqueline;Store Manager;11/07/2003;07/23/1954;Partial College;F
+24;Conley, Lin;Store Manager;02/25/2001;05/07/1971;Graduate Degree;F
+25;Bernard, Jose;Store Manager;07/29/2002;02/28/1959;High School Degree;M
+26;Macaluso, Charles;Store Manager;12/23/2001;12/12/1965;Bachelors Degree;M
+27;Wood, Lois;Store Manager;02/18/2003;07/27/1959;Partial College;F
+28;Armstrong, Kevin;Store Manager;09/26/2003;05/13/1967;Graduate Degree;M
+29;Goldey, Cody;Store Manager;12/02/2004;11/03/1953;Partial College;M
+30;Nickell, Paula;Store Manager;04/18/2001;09/10/1974;Partial College;F
+31;Long, Eric;Store Manager;09/13/2002;03/02/1967;High School Degree;M
+32;Solimena, Mary;Store Manager;08/11/2002;06/17/1966;Bachelors Degree;F
+33;Muenich, Nathan;Store Manager;02/22/2001;10/23/1965;Graduate Degree;M
+34;Young, Ed;Store Manager;07/30/2001;10/25/1962;Bachelors Degree;M
+35;Arnold, Donna;HQ Marketing;09/07/2001;08/13/1974;PhD. Marketing;F
+36;Cooper, Jennifer;HQ Information Systems;04/04/2002;08/21/1966;Bachelors Degree;F
+37;Petty, Peggy;HQ Information Systems;02/18/2002;06/24/1967;High School Degree;F
+38;Olguin, Jessica;HQ Information Systems;12/21/2002;12/15/1966;Bachelors Degree;F
+39;Burchett, Phyllis;HQ Information Systems;06/18/2002;09/09/1960;High School Degree;F
+40;Bechard, Howard;HQ Marketing;11/04/2001;09/30/1956;PhD. Marketing;M
+41;Carter, Doris;HQ Marketing;09/28/2004;01/30/1962;PhD. Marketing;F
+42;Sharp, Juanita;HQ Human Resources;07/22/2001;07/04/1956;Partial College;F
+43;Brunner, Sandra;HQ Human Resources;09/25/2002;11/05/1957;Bachelors Degree;F
+44;Staton, Ernest;HQ Finance and Accounting;11/08/2002;01/31/1967;Graduate Degree;M
+45;Sims, Rose;HQ Finance and Accounting;09/14/2002;12/10/1956;High School Degree;F
+46;De Carlo, Lauretta;HQ Finance and Accounting;05/14/2001;06/23/1960;High School Degree;F
+47;Williams, Mary;HQ Finance and Accounting;05/29/2003;01/07/1965;Partial College;F
+48;Burke, Terri;HQ Finance and Accounting;07/07/2002;10/30/1975;Graduate Degree;F
+49;Osborn, Audrey;HQ Finance and Accounting;07/15/2001;06/01/1960;Bachelors Degree;F
+50;Binai, Brian;HQ Finance and Accounting;11/16/2003;08/24/1965;High School Degree;M
+51;Lozada, Concepcion;HQ Finance and Accounting;07/25/2001;05/30/1948;Partial College;F
+52;Tays, Paul;Store Assistant Manager;04/12/2002;06/04/1967;High School Degree;M
+53;Thorton, Cheryl;Store Shift Supervisor;09/20/2003;01/10/1973;Partial College;F
+54;Dumin, Gary;Store Shift Supervisor;08/07/2001;05/05/1971;Partial High School;M
+55;Chin, Pat;Store Shift Supervisor;12/15/2002;01/05/1962;High School Degree;F
+56;Lovell, Zach;Store Permanent Butcher;02/21/2003;07/08/1955;Bachelors Degree;M
+57;Ratcliff, Dave;Store Permanent Butcher;11/24/2003;11/12/1963;Bachelors Degree;M
+58;Moss, Elizabeth;Store Information Systems;07/17/2002;09/29/1978;Partial College;F
+59;Anderson, Lori;Sales Executive;06/30/2002;12/10/1980;PhD. Marketing;F
+60;Everson, Michael;Sales Executive;07/23/2002;06/26/1956;PhD. Marketing;M
+61;Borden, Mary;Sales Executive;06/15/2001;11/27/1958;PhD. Marketing;F
+62;Willson, Sue;Sales Executive;11/14/2003;05/01/1974;PhD. Marketing;F
+63;Harris, Clayton;Sales Executive;01/28/2001;07/20/1980;PhD. Marketing;M
+64;Contreras, Whitney;Sales Executive;04/26/2004;05/27/1954;PhD. Marketing;F
+65;Pusedu, Boyd;Sales Executive;05/31/2004;12/04/1963;PhD. Marketing;M
+66;Stedman, Cian;Sales Executive;10/23/2002;02/17/1960;PhD. Marketing;F
+67;Zocchi, Michele;Sales Executive;06/03/2002;01/05/1970;PhD. Marketing;F
+68;Walsh, Jean;Sales Executive;11/11/2002;06/26/1973;PhD. Marketing;F
+69;Renfro, Leopoldo;Store Temporary Checker;02/05/2002;05/23/1970;High School Degree;M
+70;Brockett, Donna;Store Temporary Checker;04/02/2002;09/30/1965;Partial High School;F
+71;Anderson, Laurie;Store Temporary Checker;06/21/2004;01/19/1948;Graduate Degree;F
+72;Gomez, Louis;Store Temporary Checker;01/30/2002;12/16/1959;Partial College;M
+73;Walker, Julie;Store Temporary Checker;01/26/2001;11/30/1975;High School Degree;F
+74;Jones, Jay;Store Temporary Checker;09/21/2004;07/09/1965;Bachelors Degree;M
+75;Winfrey, Gayle;Store Temporary Checker;04/19/2002;03/03/1972;Bachelors Degree;F
+76;Brown, Yasmina;Store Temporary Checker;10/30/2004;10/20/1962;High School Degree;F
+77;Touchstone, Joseph;Store Temporary Checker;04/09/2002;09/30/1963;High School Degree;M
+78;Bakhtyari, Mary;Store Temporary Checker;11/07/2004;06/15/1969;Bachelors Degree;F
+79;Glass, Melvin;Store Permanent Stocker;03/10/2002;12/20/1960;Bachelors Degree;M
+80;Cohen, Kristin;Store Permanent Stocker;10/08/2002;12/21/1955;Partial College;F
+81;Kharman, Susan;Store Permanent Stocker;01/14/2001;10/22/1962;Graduate Degree;F
+82;Kirschner, Gordon;Store Permanent Stocker;09/16/2002;11/06/1964;Bachelors Degree;M
+83;Burger, William;Store Permanent Stocker;10/13/2002;06/12/1971;Bachelors Degree;M
+84;Blau, Lana;Store Permanent Stocker;05/18/2002;10/30/1979;Partial College;F
+85;Derby, Donna;Store Permanent Stocker;04/27/2002;04/30/1974;Partial College;F
+86;Thomson, Kathleen;Store Permanent Stocker;10/27/2002;03/07/1966;High School Degree;F
+87;Walton, Gabriel;Store Permanent Stocker;12/02/2003;01/27/1950;Graduate Degree;F
+88;Meastas, Bishop;Store Permanent Stocker;06/02/2002;02/28/1971;High School Degree;M
+89;Kouba, Geneva;Store Temporary Stocker;06/02/2001;03/24/1958;Partial College;F
+90;Clark, Tricia;Store Temporary Stocker;05/29/2003;08/30/1952;Graduate Degree;F
+91;Munn, Debi;Store Temporary Stocker;09/26/2002;11/10/1959;Partial High School;F
+92;Goldberg, Patricia;Store Temporary Stocker;09/10/2001;06/23/1976;High School Degree;F
+93;Magenheim, Susan;Store Temporary Stocker;08/31/2002;10/07/1972;High School Degree;F
+94;Hance, Nancy;Store Temporary Stocker;10/23/2002;05/23/1963;High School Degree;F
+95;Mehlert, Rhonda;Store Temporary Stocker;10/17/2002;03/02/1959;Graduate Degree;F
+96;Duran, Paula;Store Temporary Stocker;09/30/2004;06/06/1957;Partial College;F
+97;Earley, Margaret;Store Temporary Stocker;11/26/2002;07/27/1974;Partial College;F
+98;Horne, Elizabeth;Store Temporary Stocker;04/27/2002;06/23/1963;High School Degree;F
+99;Hunt, Mary;Store Assistant Manager;04/12/2002;01/11/1960;Graduate Degree;F
+100;Allen, Libby;Store Shift Supervisor;09/23/2001;05/14/1947;Partial High School;F
+101;Bruno, Bonnie;Store Shift Supervisor;05/14/2003;01/12/1964;Partial College;F
+102;Bowers, Angela;Store Shift Supervisor;10/15/2002;03/14/1973;Partial High School;F
+103;Gonzales, Donald;Store Permanent Butcher;07/02/2002;10/20/1962;Partial College;M
+104;Valdez, Sylvester;Store Permanent Butcher;01/05/2002;05/07/1974;Partial College;M
+105;Stewart, John;Store Information Systems;03/03/2002;03/26/1970;Partial College;M
+106;Velasquez, Barney;Sales Executive;08/04/2002;10/21/1979;PhD. Marketing;M
+107;Dubois, Kenneth;Sales Executive;10/09/2002;11/11/1944;PhD. Marketing;M
+108;Maestas, Kate;Sales Executive;12/22/2003;01/09/1973;PhD. Marketing;F
+109;Underwood, Josie;Sales Executive;09/03/2004;08/07/1962;PhD. Marketing;F
+110;Strain, Ramon;Sales Executive;04/30/2003;12/07/1972;PhD. Marketing;M
+111;Azari, Pat;Sales Executive;02/11/2002;12/01/1961;PhD. Marketing;F
+112;Dabit, Bob;Sales Executive;03/10/2002;07/29/1973;PhD. Marketing;M
+113;Carmona, Marty;Sales Executive;02/12/2003;10/06/1957;PhD. Marketing;M
+114;Saxton, Gina;Sales Executive;12/11/2003;07/01/1969;PhD. Marketing;F
+115;McLaughlin, Juan;Sales Executive;02/03/2002;04/07/1974;PhD. Marketing;M
+116;Eyster, Carol;Sales Executive;12/22/2002;08/21/1972;PhD. Marketing;F
+117;Henry, Nancy;Sales Executive;06/16/2004;04/01/1967;PhD. Marketing;F
+118;Barros, Chris;Store Temporary Checker;09/16/2002;12/27/1975;Partial College;F
+119;Groome, Christopher;Store Temporary Checker;06/13/2004;01/22/1969;Partial College;M
+120;Hill, Anna;Store Temporary Checker;12/15/2002;12/12/1963;High School Degree;F
+121;Williams, Ramon;Store Temporary Checker;11/05/2003;04/14/1958;High School Degree;M
+122;Masters, Scott;Store Temporary Checker;11/21/2003;03/26/1968;Graduate Degree;M
+123;Brady, Jr., Joseph;Store Temporary Checker;02/28/2003;08/10/1960;High School Degree;M
+124;Gray, Ellen;Store Temporary Checker;09/26/2001;12/28/1963;Partial High School;F
+125;Fielder, Henry;Store Temporary Checker;11/30/2001;09/01/1965;Partial College;M
+126;Finnell, Jeanine;Store Temporary Checker;09/14/2001;12/06/1961;Bachelors Degree;F
+127;Schuetz, Ian;Store Temporary Checker;05/26/2004;05/02/1968;High School Degree;M
+128;Runyon, Richard;Store Temporary Checker;10/17/2001;03/25/1960;Bachelors Degree;M
+129;Potter, Linda;Store Temporary Checker;10/25/2002;11/30/1980;High School Degree;F
+130;Smith, Mary;Store Temporary Checker;03/31/2002;02/24/1975;Partial College;F
+131;Brumagen, Barbara;Store Temporary Checker;02/18/2001;04/07/1976;Partial College;F
+132;Hamilton, Thelma;Store Temporary Checker;10/12/2002;01/28/1959;Bachelors Degree;F
+133;Wilbert, Shirley;Store Permanent Stocker;07/04/2002;01/24/1963;Bachelors Degree;F
+134;Ingram, Jeremy;Store Permanent Stocker;02/20/2002;05/07/1967;Bachelors Degree;M
+135;Haddix, Sharon;Store Permanent Stocker;04/19/2001;02/04/1961;Bachelors Degree;F
+136;Thomas, Leland;Store Permanent Stocker;03/03/2002;03/06/1970;High School Degree;M
+137;Wilson, Don;Store Permanent Stocker;02/20/2002;12/02/1965;Partial College;M
+138;Stovall, Wayne;Store Permanent Stocker;02/13/2002;10/23/1966;High School Degree;M
+139;Russell, Douglas;Store Permanent Stocker;01/25/2004;11/01/1964;High School Degree;M
+140;Doose, Maureen;Store Permanent Stocker;11/12/2002;02/28/1960;Bachelors Degree;F
+141;Morreale, Ann;Store Permanent Stocker;06/21/2003;07/25/1954;Bachelors Degree;F
+142;Rupert, Sheila;Store Permanent Stocker;03/09/2001;04/23/1962;Partial High School;F
+143;Pierson, Ashley;Store Permanent Stocker;10/22/2003;07/29/1974;Graduate Degree;F
+144;Nickels, Ivan;Store Permanent Stocker;11/30/2003;05/07/1966;Graduate Degree;M
+145;Neuhauser, Chad;Store Temporary Stocker;08/23/2001;12/30/1959;Partial College;M
+146;Coke, Ann;Store Temporary Stocker;09/08/2003;05/13/1968;Bachelors Degree;F
+147;Scarbrough, Jon;Store Temporary Stocker;11/07/2004;09/30/1968;Partial College;M
+148;Martensen, Lillian;Store Temporary Stocker;11/06/2002;06/30/1957;Partial College;F
+149;McCormick, Mary;Store Temporary Stocker;01/15/2002;10/14/1979;Partial College;F
+150;Sparacino, James;Store Temporary Stocker;10/11/2002;01/17/1955;High School Degree;M
+151;Racette, John;Store Temporary Stocker;01/01/2002;07/22/1975;Graduate Degree;M
+152;Thompson, Edwardo;Store Temporary Stocker;03/05/2002;08/19/1956;Graduate Degree;M
+153;Warren, Sam;Store Temporary Stocker;01/31/2002;11/06/1954;Partial College;M
+154;Chow-Wang, Shelby;Store Temporary Stocker;11/28/2002;02/25/1961;Graduate Degree;M
+155;Wood, Nelly;Store Temporary Stocker;04/26/2002;11/03/1951;Partial College;F
+156;Morgan, Jackie;Store Temporary Stocker;08/08/2003;07/02/1971;Bachelors Degree;F
+157;Boje, Gavin;Store Temporary Stocker;08/10/2001;10/10/1966;Partial College;M
+158;Tsujimoto, Marlene;Store Temporary Stocker;05/03/2003;01/02/1981;Bachelors Degree;F
+159;Bouton, RitaIva;Store Temporary Stocker;03/17/2004;06/23/1974;High School Degree;F
+160;Gras, Dell;Store Assistant Manager;09/16/2002;04/12/1959;Bachelors Degree;F
+161;Solano, Christopher;Store Shift Supervisor;09/14/2004;01/02/1971;Partial High School;M
+162;Armstrong, George;Store Shift Supervisor;03/12/2002;05/04/1963;Bachelors Degree;M
+163;Aldred, Kristine;Store Shift Supervisor;09/30/2003;07/04/1971;Partial College;F
+164;Jorgenson, Tom;Store Permanent Butcher;09/27/2003;12/21/1970;Graduate Degree;M
+165;Turner, Dana;Store Permanent Butcher;04/21/2003;04/22/1960;Graduate Degree;F
+166;Zakerski, Terry;Store Information Systems;10/18/2001;02/20/1959;Partial College;M
+167;Carlson, David;Sales Executive;02/22/2003;03/26/1956;PhD. Marketing;F
+168;Symons, Linda;Sales Executive;03/15/2001;12/06/1972;PhD. Marketing;F
+169;Reynolds, Louis;Sales Executive;05/02/2002;05/04/1963;PhD. Marketing;M
+170;Ibsen, Maureen;Sales Executive;02/19/2001;10/15/1959;PhD. Marketing;M
+171;Ciochon, Virginia;Sales Executive;04/21/2002;06/15/1966;PhD. Marketing;F
+172;Berger, Steve;Sales Executive;06/09/2004;11/09/1972;PhD. Marketing;F
+173;Bayol, James;Sales Executive;02/03/2002;07/30/1956;PhD. Marketing;F
+174;Thumann, Meredith;Sales Executive;11/13/2002;10/06/1955;PhD. Marketing;F
+175;Jones, Julie;Sales Executive;10/15/2002;05/15/1953;PhD. Marketing;M
+176;Bury, Janet;Sales Executive;11/01/2002;01/18/1962;PhD. Marketing;M
+177;Bevan, Onita;Sales Executive;04/01/2002;10/29/1967;PhD. Marketing;M
+178;Monarco, Mary;Sales Executive;12/30/2002;05/06/1969;PhD. Marketing;M
+179;Zingarelli, Vicky;Store Temporary Checker;12/24/2003;12/23/1958;Graduate Degree;F
+180;Valentine, Helen;Store Temporary Checker;05/19/2004;10/03/1968;Partial College;F
+181;Scheulen, Carol;Store Temporary Checker;02/12/2001;11/06/1975;Bachelors Degree;F
+182;Koon, Virgie;Store Temporary Checker;12/11/2002;10/30/1960;Bachelors Degree;M
+183;Amole, Sarah;Store Temporary Checker;03/11/2001;10/06/1947;Partial College;F
+184;Hill, Cecil;Store Temporary Checker;05/17/2002;01/31/1957;High School Degree;M
+185;Tate, Ruth;Store Temporary Checker;08/29/2001;04/27/1961;Partial High School;F
+186;Schnurr, Larry;Store Temporary Checker;11/12/2003;02/22/1959;Bachelors Degree;M
+187;Sutton, Jerry;Store Temporary Checker;04/14/2003;07/27/1969;Partial High School;F
+188;Mlincek, Kevin;Store Temporary Checker;01/28/2002;04/14/1961;Graduate Degree;M
+189;Tucker, Edward;Store Temporary Checker;10/21/2002;02/11/1947;Partial High School;F
+190;Forham, Kenton;Store Temporary Checker;10/14/2002;03/01/1957;Bachelors Degree;F
+191;Malik, Brittany;Store Temporary Checker;12/13/2001;09/28/1967;Bachelors Degree;F
+192;Eldridge, Jeannette;Store Temporary Checker;07/04/2002;07/25/1966;Bachelors Degree;M
+193;Anderson, Terry;Store Temporary Checker;10/20/2001;01/05/1963;Partial College;F
+194;Sosa, Loni;Store Permanent Stocker;03/04/2002;08/07/1952;Bachelors Degree;F
+195;Mann, Marie;Store Permanent Stocker;07/02/2002;05/09/1958;Graduate Degree;M
+196;Prater, Michael;Store Permanent Stocker;11/02/2002;11/21/1964;High School Degree;F
+197;Ansaldo, Karen;Store Permanent Stocker;01/25/2001;03/17/1964;High School Degree;F
+198;Caijem, Lance;Store Permanent Stocker;04/14/2002;12/03/1962;High School Degree;M
+199;Yates, Pamela;Store Permanent Stocker;12/06/2002;07/25/1970;Bachelors Degree;F
+200;Turner, Iwona;Store Permanent Stocker;04/22/2004;12/14/1977;Partial High School;F
+201;Fulcher, Mary;Store Permanent Stocker;09/07/2004;07/30/1961;Bachelors Degree;F
+202;Berg, Raymond;Store Permanent Stocker;01/26/2002;03/14/1964;Partial College;M
+203;Lopez, Ramona;Store Permanent Stocker;08/15/2001;04/27/1967;High School Degree;M
+204;Valdivia, Helen;Store Permanent Stocker;05/18/2002;07/29/1954;Graduate Degree;M
+205;Cardoza, Beverly;Store Permanent Stocker;06/20/2001;11/09/1972;Graduate Degree;F
+206;Hall, Mary;Store Temporary Stocker;03/25/2002;09/23/1972;Graduate Degree;M
+207;Minarick, Rachel;Store Temporary Stocker;07/11/2004;03/15/1969;Bachelors Degree;F
+208;Los Olmos, Dorine;Store Temporary Stocker;03/10/2001;11/01/1973;Partial College;M
+209;Garner, Dave;Store Temporary Stocker;09/17/2002;06/27/1964;Graduate Degree;F
+210;Leong, Lois;Store Temporary Stocker;05/15/2002;12/10/1967;Partial High School;M
+211;Tate, Larasa;Store Temporary Stocker;03/26/2002;07/03/1970;Graduate Degree;M
+212;Watson, David;Store Temporary Stocker;09/27/2004;08/13/1967;Bachelors Degree;F
+213;Frank, James;Store Temporary Stocker;08/04/2002;03/14/1962;Bachelors Degree;M
+214;Wood, Alfredo;Store Temporary Stocker;12/13/2002;09/28/1947;Partial College;M
+215;Baird, Dorothy;Store Temporary Stocker;03/02/2002;08/04/1971;High School Degree;F
+216;Jans, George;Store Temporary Stocker;11/19/2002;08/02/1964;High School Degree;M
+217;Garrison, Bernadine;Store Temporary Stocker;07/19/2001;12/15/1962;Bachelors Degree;M
+218;Zeller, Sam;Store Temporary Stocker;10/20/2002;06/05/1954;Graduate Degree;M
+219;Ace, Dorothy;Store Temporary Stocker;05/25/2002;10/06/1960;Bachelors Degree;F
+220;Trujillo, Adria;Store Temporary Stocker;11/22/2002;09/28/1958;Partial High School;F
+221;McCown, Bunny;Store Assistant Manager;09/19/2004;04/14/1974;Bachelors Degree;F
+222;Miller, Nancy;Sales Executive;05/25/2001;03/12/1963;PhD. Marketing;F
+223;Hollar, Wanda;Store Temporary Checker;06/09/2003;12/18/1964;Partial College;F
+224;Wallin, Barbara;Store Assistant Manager;08/04/2003;01/27/1965;Bachelors Degree;M
+225;Bruha, Michael;Store Shift Supervisor;01/04/2002;09/18/1969;Bachelors Degree;F
+226;Suggs, Michael;Store Shift Supervisor;02/04/2002;04/25/1970;Partial College;F
+227;Turner, Kenneth;Store Shift Supervisor;02/25/2002;10/15/1961;Graduate Degree;F
+228;Griffin, Lois;Store Permanent Butcher;06/28/2002;08/12/1964;Bachelors Degree;F
+229;Guardamondo, Robert;Store Permanent Butcher;06/10/2002;08/21/1961;Partial College;M
+230;West, Bryan;Store Information Systems;05/13/2002;01/26/1965;Bachelors Degree;F
+231;Welsh, Vicki;Sales Executive;07/29/2003;09/23/1976;PhD. Marketing;F
+232;McCollum, Harvey;Sales Executive;05/01/2002;12/05/1956;PhD. Marketing;M
+233;Cramer, Mary;Sales Executive;01/26/2004;07/30/1948;PhD. Marketing;M
+234;Fike, Linda;Sales Executive;07/16/2003;07/30/1961;PhD. Marketing;M
+235;Adair, Sam;Sales Executive;03/14/2001;06/07/1962;PhD. Marketing;M
+236;Kolosso, Jerry;Sales Executive;09/08/2001;09/28/1959;PhD. Marketing;M
+237;Carpenter, Todd;Sales Executive;12/31/2003;11/27/1971;PhD. Marketing;F
+238;Watkins, Lisa;Sales Executive;07/03/2004;10/07/1960;PhD. Marketing;M
+239;Barrera, Kevin;Sales Executive;10/28/2004;01/16/1976;PhD. Marketing;M
+240;Price, Maria;Sales Executive;04/21/2002;11/16/1955;PhD. Marketing;M
+241;Rosemont, Flossie;Sales Executive;12/29/2002;08/14/1959;PhD. Marketing;M
+242;McMenama, Betty;Sales Executive;04/03/2004;06/23/1971;PhD. Marketing;M
+243;Lyons, Max;Store Temporary Checker;03/01/2003;09/01/1954;Partial College;F
+244;Sandy Kurtz, Christine;Store Temporary Checker;10/10/2001;08/21/1969;Graduate Degree;M
+245;Santry, Rita;Store Temporary Checker;11/07/2002;06/20/1964;High School Degree;M
+246;Quigle, Catherine;Store Temporary Checker;09/18/2002;08/07/1962;Partial College;F
+247;Christensen, Patricia;Store Temporary Checker;07/31/2002;04/15/1960;Partial High School;M
+248;Mercurio, Anne;Store Temporary Checker;01/08/2002;08/18/1974;Partial College;F
+249;McGrath, Louis;Store Temporary Checker;03/14/2001;03/25/1980;High School Degree;M
+250;Wright, Rachael;Store Temporary Checker;03/13/2002;12/22/1966;Partial College;F
+251;Skuce, Richard;Store Temporary Checker;11/26/2003;03/02/1965;High School Degree;M
+252;Coleman, George;Store Temporary Checker;03/22/2002;03/22/1972;High School Degree;F
+253;Barnes, Lois;Store Temporary Checker;03/02/2001;11/26/1973;Partial College;M
+254;Camille, Jacky;Store Temporary Checker;12/22/2002;03/13/1963;High School Degree;M
+255;Allenbach, Michelle;Store Temporary Checker;03/25/2003;03/14/1969;High School Degree;M
+256;Smith, Franklin;Store Temporary Checker;08/18/2003;01/08/1966;High School Degree;F
+257;Minker, John;Store Temporary Checker;04/15/2003;07/31/1969;High School Degree;M
+258;Jimenez, Sarah;Store Permanent Stocker;08/07/2002;09/18/1978;High School Degree;M
+259;Malaby, Darwin;Store Permanent Stocker;06/20/2002;11/07/1977;High School Degree;M
+260;Caldwell, Pamela;Store Permanent Stocker;08/21/2002;10/10/1944;Partial College;M
+261;Tinder, Roger;Store Permanent Stocker;09/01/2002;03/01/1956;High School Degree;F
+262;Kropff, Joseph;Store Permanent Stocker;06/23/2002;04/03/1971;High School Degree;F
+263;Worsham, Mimi;Store Permanent Stocker;08/14/2002;12/29/1978;Partial High School;F
+264;Bernal, Ruth;Store Permanent Stocker;11/16/2003;04/21/1956;Bachelors Degree;F
+265;Zimmerman, Yolanda;Store Permanent Stocker;01/16/2002;10/28/1956;High School Degree;M
+266;Evans, Sandra;Store Permanent Stocker;10/07/2002;07/03/1960;Bachelors Degree;F
+267;Bowman, Virginia;Store Permanent Stocker;11/27/2002;12/31/1967;Partial College;M
+268;Coleman, Mary;Store Permanent Stocker;09/28/2002;09/08/1967;Partial College;F
+269;Chrisulis, Kevin;Store Permanent Stocker;06/07/2002;03/14/1964;Partial College;M
+270;Whitcomb, Lee;Store Temporary Stocker;07/30/2003;07/16/1958;Bachelors Degree;M
+271;Turcios, Brian;Store Temporary Stocker;07/30/2001;01/26/1955;Partial College;F
+272;Confetti, Jennifer;Store Temporary Stocker;12/05/2003;05/01/1966;High School Degree;F
+273;Takemura, Geneva;Store Temporary Stocker;09/23/2004;07/29/1965;Bachelors Degree;M
+274;Campbell, Lynn;Store Temporary Stocker;01/26/2001;05/13/1956;Graduate Degree;F
+275;Smith, Nina;Store Temporary Stocker;08/21/2002;06/10/1951;Partial College;M
+276;Vuong, Darrell;Store Temporary Stocker;08/12/2002;06/28/1966;Bachelors Degree;M
+277;Abbott, Eric;Store Temporary Stocker;10/15/2003;02/25/1953;Partial College;F
+278;Liff, Doris;Store Temporary Stocker;04/25/2002;02/04/1969;High School Degree;F
+279;Steinberg, John;Store Temporary Stocker;09/18/2002;01/04/1971;Bachelors Degree;F
+280;Megel, Jerry;Store Temporary Stocker;01/27/2002;08/04/1947;Partial College;F
+281;Styles, John;Store Temporary Stocker;12/18/2001;06/09/1955;Partial College;F
+282;Head, Shirley;Store Temporary Stocker;03/12/2002;05/25/1950;Partial High School;M
+283;Story, James;Store Temporary Stocker;04/14/2001;09/19/1954;Bachelors Degree;F
+284;Boone, Jean;Store Temporary Stocker;09/28/2003;11/22/1956;High School Degree;F
+285;Mccoy, Ralph;Store Assistant Manager;10/06/2001;05/25/1958;Bachelors Degree;F
+286;Tuck, Anne;Store Shift Supervisor;06/05/2002;10/20/1979;Bachelors Degree;F
+287;Sincich, Joy;Store Shift Supervisor;12/15/2001;07/19/1964;Partial College;F
+288;Jameson, Bertha;Store Shift Supervisor;08/02/2002;11/19/1963;Partial High School;F
+289;Sanchez, Charles;Store Permanent Butcher;08/04/2002;03/02/1970;High School Degree;M
+290;Parks, Wanda;Store Permanent Butcher;09/28/2001;12/13/1965;Graduate Degree;M
+291;Vij, Nathan;Store Information Systems;03/14/2004;08/04/1967;Partial College;M
+292;Zugschwert, Corinne;Sales Executive;08/13/2002;09/27/1974;PhD. Marketing;M
+293;Adams, Michelle;Sales Executive;07/03/2002;03/26/1944;PhD. Marketing;F
+294;Steen, Donahue;Sales Executive;12/10/2001;05/15/1969;PhD. Marketing;M
+295;Baker, John;Sales Executive;06/27/2001;09/17/1969;PhD. Marketing;F
+296;Pearl, Keith;Sales Executive;11/01/2002;03/10/1975;PhD. Marketing;F
+297;Roundtree, Sarah;Sales Executive;03/15/2001;07/11/1960;PhD. Marketing;F
+298;Bollin, Lawrence;Sales Executive;09/23/2004;03/25/1967;PhD. Marketing;F
+299;Hopkins, Fred;Sales Executive;11/09/2001;06/20/1967;PhD. Marketing;M
+300;Vicknair, Caroline;Sales Executive;07/29/2003;05/18/1965;PhD. Marketing;F
+301;McPhearson, Nancy;Sales Executive;04/27/2002;08/15/1964;PhD. Marketing;F
+302;Albright, Anna;Sales Executive;03/14/2004;01/26/1959;PhD. Marketing;M
+303;Thomas, Phyllis;Sales Executive;07/30/2002;09/07/1966;PhD. Marketing;M
+304;Perko, Tina;Sales Executive;12/14/2002;04/22/1966;PhD. Marketing;F
+305;McCarty, Jane;Sales Executive;07/25/2003;12/06/1963;PhD. Marketing;M
+306;Bent, Scot;Sales Executive;12/03/2003;04/14/1972;PhD. Marketing;F
+307;Chambers, Pat;Store Temporary Checker;03/17/2003;01/25/1946;Bachelors Degree;F
+308;Bellifa, Stanley;Store Temporary Checker;11/21/2002;11/02/1968;High School Degree;M
+309;Johnson, Samuel;Store Temporary Checker;05/09/2002;07/02/1978;Bachelors Degree;F
+310;Vrins, Janice;Store Temporary Checker;08/07/2002;03/04/1960;Partial High School;M
+311;Mcdonald, Christinia;Store Temporary Checker;01/05/2002;10/20/1954;Partial High School;M
+312;Weldon, Ole;Store Temporary Checker;07/25/2001;07/04/1956;Bachelors Degree;M
+313;Choin, Ruth;Store Temporary Checker;09/28/2003;12/13/1961;Bachelors Degree;F
+314;Crow, Sharon;Store Temporary Checker;03/01/2002;10/14/1973;Partial College;M
+315;Avalos, Robert;Store Temporary Checker;02/11/2002;10/21/1968;Bachelors Degree;M
+316;Jacobsen, Eric;Store Temporary Checker;04/14/2002;01/28/1967;Graduate Degree;M
+317;Castro, Pamela;Store Temporary Checker;07/27/2002;04/14/1980;High School Degree;F
+318;Caldwell, Sylvia;Store Temporary Checker;02/22/2002;11/12/1974;Bachelors Degree;F
+319;Reed, Russell;Store Temporary Checker;04/27/2001;08/29/1954;Graduate Degree;F
+320;Kelley, Victor;Store Temporary Checker;01/31/2002;05/17/1964;Graduate Degree;M
+321;Taylor, Damon;Store Temporary Checker;10/06/2003;03/11/1960;Partial College;M
+322;Robinson, Rebecca;Store Temporary Checker;10/30/2002;12/11/1967;Graduate Degree;F
+323;Thomsen, Andrea;Store Temporary Checker;11/06/2001;02/12/1960;Graduate Degree;M
+324;Baldwin, Douglas;Store Temporary Checker;10/03/2002;05/19/1963;Partial High School;F
+325;Yuhasz, Ian;Store Permanent Stocker;12/23/2002;12/24/1968;Partial College;F
+326;Carmody, Jovita;Store Permanent Stocker;05/06/2002;12/30/1954;Bachelors Degree;F
+327;Gonzales, Lynn;Store Permanent Stocker;10/29/2003;04/01/1962;Bachelors Degree;M
+328;Allen, Phyllis;Store Permanent Stocker;01/18/2002;11/01/1968;Partial High School;F
+329;Caprio, Johnny;Store Permanent Stocker;05/15/2001;10/15/1958;Bachelors Degree;F
+330;Slaven, Lanna;Store Permanent Stocker;10/06/2002;11/13/1959;High School Degree;M
+331;Ortiz, Fred;Store Permanent Stocker;07/30/2002;02/03/1969;High School Degree;M
+332;Beaver, John;Store Permanent Stocker;11/09/2004;06/09/1956;Bachelors Degree;F
+333;Rhodes, Albert;Store Permanent Stocker;06/15/2001;04/21/1974;Bachelors Degree;F
+334;Kaffer, Scott;Store Permanent Stocker;10/15/2002;02/19/1951;High School Degree;F
+335;Bales, Jennifer;Store Permanent Stocker;05/04/2003;05/02/1968;Partial College;M
+336;Stotka, Louis;Store Permanent Stocker;12/06/2002;03/15/1954;High School Degree;F
+337;Maynard, Sandra;Store Permanent Stocker;03/26/2002;10/18/1964;Bachelors Degree;M
+338;Tuell, Gracia;Store Permanent Stocker;02/20/2002;02/22/1960;Partial College;F
+339;Burnett, Timothy;Store Permanent Stocker;04/22/2002;04/21/1983;Partial College;F
+340;Haugh, James;Store Temporary Stocker;12/21/2002;09/27/1953;High School Degree;M
+341;Moberly, Paula;Store Temporary Stocker;07/04/2002;09/30/1966;High School Degree;F
+342;Meyer, Eric;Store Temporary Stocker;05/04/2002;03/12/1962;Graduate Degree;F
+343;Orona, Gloria;Store Temporary Stocker;01/02/2001;09/14/1971;Bachelors Degree;M
+344;Warmack, Ruth;Store Temporary Stocker;04/12/2003;09/16/1981;Partial High School;F
+345;Wall, Joanna;Store Temporary Stocker;06/23/2004;03/17/1968;High School Degree;M
+346;Appelbaum, Sabria;Store Temporary Stocker;01/02/2002;05/03/1971;Bachelors Degree;F
+347;Kung, Jeffrey;Store Temporary Stocker;07/02/2002;08/10/1963;High School Degree;M
+348;Wilson, Gloria;Store Temporary Stocker;10/10/2003;08/08/1970;Partial College;F
+349;Tuffield, Phyllis;Store Temporary Stocker;11/03/2004;04/26/1965;Partial College;F
+350;Ping, Patricia;Store Temporary Stocker;02/25/2002;11/28/1965;Partial College;M
+351;Shepard, David;Store Temporary Stocker;11/06/2003;01/31/1953;High School Degree;F
+352;Bailey, James;Store Temporary Stocker;08/19/2001;03/05/1946;Partial College;F
+353;Chestnut, Susan;Store Temporary Stocker;07/22/2004;01/01/1971;Bachelors Degree;F
+354;Toone, Delia;Store Temporary Stocker;01/17/2002;10/11/1961;Partial High School;F
+355;Armstrong, Thomas;Store Temporary Stocker;10/14/2001;01/15/1967;Bachelors Degree;F
+356;Billstrom, Mary;Store Temporary Stocker;06/30/2003;11/06/1967;Partial College;M
+357;Stotka, Robert;Store Temporary Stocker;09/30/2003;11/07/1975;Graduate Degree;F
+358;Johnson, Danielle;Store Assistant Manager;05/13/2003;09/08/1947;Partial College;F
+359;Lepro, Bonnie;Sales Executive;12/30/2004;08/23/1982;PhD. Marketing;M
+360;Elliott, Carol;Store Temporary Checker;05/07/2002;11/30/1949;Partial High School;F
+361;Steelman, Shanay;Store Assistant Manager;07/29/2003;10/22/1959;Graduate Degree;F
+362;Adams, Frances;Store Shift Supervisor;04/23/2003;03/09/1963;Partial High School;F
+363;Poorbaugh, Alma;Store Shift Supervisor;07/25/2003;06/21/1967;High School Degree;F
+364;Hasty, Neal;Store Shift Supervisor;02/28/2001;11/12/1956;Partial College;F
+365;Betsekas, Steven;Store Permanent Butcher;11/01/2004;01/25/1971;Bachelors Degree;M
+366;Ziegler, Arvid;Store Permanent Butcher;10/23/2001;02/13/1968;Bachelors Degree;F
+367;Weyerhaeuser, Ann;Store Information Systems;12/02/2003;02/20/1964;High School Degree;F
+368;Robinson, Dorothy;Sales Executive;03/06/2002;03/03/1970;PhD. Marketing;F
+369;Brunner, June;Sales Executive;02/04/2001;04/19/1971;PhD. Marketing;M
+370;Frazier, Judith;Sales Executive;05/07/2002;07/04/1973;PhD. Marketing;M
+371;Rector, Michelle;Sales Executive;01/24/2001;02/20/1961;PhD. Marketing;M
+372;Caldwell, Mari;Sales Executive;01/28/2001;10/12/1953;PhD. Marketing;F
+373;Gonzales, Linda;Sales Executive;04/07/2003;02/18/1962;PhD. Marketing;F
+374;Monitor, Alan;Sales Executive;02/24/2002;03/31/1967;PhD. Marketing;F
+375;Lewin, Elsie;Sales Executive;11/30/2003;10/25/1952;PhD. Marketing;M
+376;Desalvo, Bev;Sales Executive;03/25/2001;10/17/1965;PhD. Marketing;F
+377;Alpuerto, Oscar;Sales Executive;05/02/2002;05/26/1951;PhD. Marketing;M
+378;Marshall, Cecelia;Sales Executive;12/06/2002;09/14/1965;PhD. Marketing;M
+379;Bockenkamp, Gabriel;Sales Executive;09/01/2001;11/30/1969;PhD. Marketing;M
+380;Kesterson, Alice;Store Temporary Checker;12/28/2004;09/26/1971;Partial College;F
+381;Alexander, J. Phillip;Store Temporary Checker;08/10/2002;02/28/1956;Bachelors Degree;M
+382;Mendoza, R. Morgan;Store Temporary Checker;03/26/2003;11/21/1966;Partial High School;M
+383;Herrick, Pam;Store Temporary Checker;04/14/2002;11/05/1980;Partial College;M
+384;McCoy, James;Store Temporary Checker;12/12/2003;12/15/1968;Partial College;F
+385;Thoreson, Rossane;Store Temporary Checker;01/22/2003;06/13/1971;Partial High School;F
+386;Snowden, Victoria;Store Temporary Checker;12/27/2002;09/16/1964;Partial College;M
+387;Blanton, Donald;Store Temporary Checker;04/01/2002;06/16/1970;Partial College;F
+388;Gibbens, Cornett;Store Temporary Checker;04/07/2002;12/22/1965;Bachelors Degree;M
+389;Alcorn, Paul;Store Temporary Checker;08/21/2003;02/03/1955;Bachelors Degree;M
+390;Miller, Virginia;Store Temporary Checker;07/01/2002;12/11/1959;Bachelors Degree;M
+391;Campen, Henry;Store Temporary Checker;10/06/2003;02/12/1959;High School Degree;F
+392;Coffman, Connie;Store Temporary Checker;07/29/2002;03/10/1948;Bachelors Degree;M
+393;Bustamante, Jared;Store Temporary Checker;12/01/2002;02/11/1974;High School Degree;M
+394;Eldridge, Carla;Store Temporary Checker;12/07/2002;04/30/1965;Graduate Degree;F
+395;Sipsy, Barbara;Store Permanent Stocker;08/07/2002;09/03/1969;Graduate Degree;F
+396;Weimer, Dorothy;Store Permanent Stocker;01/09/2003;12/22/1969;Partial College;M
+397;Irwin, Richard;Store Permanent Stocker;11/11/2002;10/09/1948;Partial College;M
+398;Son, Alma;Store Permanent Stocker;10/21/2002;08/04/1950;Bachelors Degree;M
+399;Brandon, Cornelius;Store Permanent Stocker;03/26/2002;03/03/1969;Partial College;F
+400;Quintana, Monica;Store Permanent Stocker;05/07/2003;01/05/1969;Bachelors Degree;M
+401;Colon, John;Store Permanent Stocker;10/20/2002;07/02/1965;High School Degree;F
+402;Barlow, Brenda;Store Permanent Stocker;03/14/2002;10/15/1973;Partial High School;M
+403;Adina, Ronald;Store Permanent Stocker;01/12/2003;05/14/1981;Graduate Degree;M
+404;Bohling, Michael;Store Permanent Stocker;05/14/2002;09/23/1970;Bachelors Degree;F
+405;Wheeler, Sam;Store Permanent Stocker;01/11/2002;04/12/1964;Bachelors Degree;M
+406;Swearengin, Abraham;Store Permanent Stocker;06/23/2002;04/27/1960;Partial College;M
+407;Givens, David;Store Temporary Stocker;07/27/2004;11/26/1977;High School Degree;F
+408;Beanston, Glenna;Store Temporary Stocker;06/06/2002;09/30/1951;High School Degree;M
+409;Bruno, Dirk;Store Temporary Stocker;03/02/2001;10/17/1971;High School Degree;M
+410;Berger, Alexander;Store Temporary Stocker;05/23/2001;10/23/1951;Graduate Degree;M
+411;Sultan, Marcia;Store Temporary Stocker;10/07/2001;08/31/1957;Partial College;M
+412;Svoboda, Martin;Store Temporary Stocker;06/23/2004;09/10/1953;Bachelors Degree;F
+413;Tullao, Mary;Store Temporary Stocker;11/10/2001;09/26/1967;High School Degree;F
+414;Hernandez, Irene;Store Temporary Stocker;08/30/2003;05/29/1965;Partial College;M
+415;Wilkie, Jay Saxema;Store Temporary Stocker;03/24/2002;06/02/1950;Partial High School;F
+416;Lunt, Sean;Store Temporary Stocker;02/28/2001;06/02/1974;Bachelors Degree;F
+417;Fulton, Paul;Store Temporary Stocker;01/27/2004;12/02/1962;Graduate Degree;F
+418;Dillon, Rudolph;Store Temporary Stocker;03/07/2001;10/27/1976;Bachelors Degree;F
+419;Miller, Matthew;Store Temporary Stocker;04/30/2002;04/27/1961;High School Degree;F
+420;Stern, Vassar;Store Temporary Stocker;10/30/2003;05/18/1956;Bachelors Degree;F
+421;Suffin, Ruth;Store Temporary Stocker;06/12/2002;10/13/1956;Partial College;M
+422;Cleary, Kristine;Store Assistant Manager;11/06/2002;09/16/1957;Partial High School;F
+423;Homax, Jaunita;Store Shift Supervisor;10/22/2001;01/14/1959;Partial College;F
+424;Adams, Margaret;Store Shift Supervisor;12/21/2001;10/08/1957;Partial College;M
+425;Zubaty, Carla;Store Shift Supervisor;12/20/2002;03/10/1978;Partial College;M
+426;Khan, Tammy;Store Permanent Butcher;06/15/2003;11/07/1957;Partial College;M
+427;Brinkd, David;Store Permanent Butcher;09/30/2002;04/09/1974;High School Degree;M
+428;Clark, James;Store Information Systems;10/20/2003;10/30/1977;High School Degree;M
+429;Dennis, Helen;Sales Executive;03/03/2002;04/19/1954;PhD. Marketing;M
+430;Brumfield, Eric;Sales Executive;07/09/2003;09/21/1971;PhD. Marketing;F
+431;Sanchez, Madalena;Sales Executive;11/30/2002;01/26/1964;PhD. Marketing;F
+432;Suess, Gary;Sales Executive;12/16/2001;01/30/1973;PhD. Marketing;F
+433;Trach, Glenn;Sales Executive;01/19/2002;06/21/1958;PhD. Marketing;F
+434;White, Cynthia;Sales Executive;09/30/2003;04/02/1965;PhD. Marketing;F
+435;Brian, Walter;Sales Executive;05/23/2003;02/05/1959;PhD. Marketing;M
+436;Trujillo, Christie;Sales Executive;06/26/2003;11/11/1971;PhD. Marketing;F
+437;Alameda, Lili;Sales Executive;01/05/2001;06/03/1980;PhD. Marketing;F
+438;Fox, Dorothy;Sales Executive;02/17/2002;10/23/1977;PhD. Marketing;M
+439;Gallagher, Aldeen;Sales Executive;12/04/2001;05/31/1954;PhD. Marketing;F
+440;Myer, Dorothy;Sales Executive;05/27/2002;04/26/1971;PhD. Marketing;F
+441;Byrnes, David;Store Temporary Checker;07/20/2003;01/28/1975;Partial High School;F
+442;Ryan, Justine;Store Temporary Checker;05/01/2002;11/14/1957;Graduate Degree;M
+443;Chand, Forrest;Store Temporary Checker;11/27/2003;06/15/1956;High School Degree;F
+444;Vanderkamp, Margaret;Store Temporary Checker;06/26/2001;07/23/1958;Partial High School;M
+445;Carroll, Rosmarie;Store Temporary Checker;12/10/2003;06/30/1959;Partial High School;F
+446;Contreras, Dorothy;Store Temporary Checker;09/29/2001;07/17/1968;Graduate Degree;M
+447;Cantoni, Joseph;Store Temporary Checker;11/12/2002;11/24/1963;Partial High School;M
+448;Reed, Celine;Store Temporary Checker;07/08/2002;02/21/1955;High School Degree;F
+449;Peterson, Glin;Store Temporary Checker;01/05/2002;12/15/1966;Graduate Degree;M
+450;Osborn, Stephen;Store Temporary Checker;05/05/2002;08/07/1965;High School Degree;F
+451;Graham., Lowell;Store Temporary Checker;01/10/2002;09/20/1962;High School Degree;F
+452;Shaddy, Jamie;Store Temporary Checker;06/04/2002;04/12/1960;Partial College;F
+453;Haemon, Hattie;Store Temporary Checker;05/30/2004;07/25/1966;Partial College;M
+454;Krow, Jame;Store Temporary Checker;08/24/2002;11/16/1965;Partial College;F
+455;Belli, Shane;Store Temporary Checker;06/01/2004;07/15/1965;Bachelors Degree;M
+456;Porter, Ethel;Store Permanent Stocker;10/30/2001;07/07/1963;Partial High School;F
+457;Lesko, Gloria;Store Permanent Stocker;01/07/2003;05/29/1964;Partial College;F
+458;Worland, Michael;Store Permanent Stocker;06/23/2004;05/14/1981;High School Degree;M
+459;Torre, Alvin;Store Permanent Stocker;12/10/2001;09/14/1950;High School Degree;M
+460;Ramos, Susan;Store Permanent Stocker;01/31/2004;11/08/1964;Bachelors Degree;M
+461;Christie, Jill;Store Permanent Stocker;11/05/2003;09/25/1956;Bachelors Degree;F
+462;Zocchi, Juanita;Store Permanent Stocker;07/04/2001;07/22/1965;High School Degree;M
+463;Altamirano, Sandra;Store Permanent Stocker;01/30/2003;09/28/1961;Graduate Degree;M
+464;Benson, Edna;Store Permanent Stocker;09/30/2003;11/04/1965;Bachelors Degree;M
+465;Deborde, Alexander;Store Permanent Stocker;09/09/2003;06/18/1971;Partial College;M
+466;Calone, Barbara;Store Permanent Stocker;12/15/2002;12/21/1978;Bachelors Degree;F
+467;Pompa, Cheryl;Store Permanent Stocker;06/24/2002;02/18/1969;Partial College;F
+468;Traube, Doris;Store Temporary Stocker;08/21/2001;04/04/1965;Partial College;M
+469;Sloan, Cathy;Store Temporary Stocker;08/13/2001;09/07/1964;Partial College;F
+470;Villa, Homer;Store Temporary Stocker;10/25/2001;07/30/1978;High School Degree;F
+471;Herman, Deena;Store Temporary Stocker;10/23/2004;02/22/1964;Graduate Degree;F
+472;Roberts, Leota;Store Temporary Stocker;03/02/2001;08/11/1974;Graduate Degree;F
+473;Mc Clane, John;Store Temporary Stocker;06/17/2002;09/13/1979;Partial College;F
+474;Maxham, Jennifer;Store Temporary Stocker;09/10/2003;04/18/1955;Graduate Degree;M
+475;Sullivan, Elizabeth;Store Temporary Stocker;11/03/2001;12/02/1975;Bachelors Degree;F
+476;Watada, Irene;Store Temporary Stocker;05/13/2003;09/26/1964;Partial High School;F
+477;Rhiger, Constance;Store Temporary Stocker;07/27/2003;02/18/1976;Bachelors Degree;F
+478;Finley, Rhoda;Store Temporary Stocker;12/12/2002;12/23/1962;Graduate Degree;F
+479;Winter, Kathleen;Store Temporary Stocker;02/28/2003;07/29/1960;Partial College;F
+480;Adams, Carla;Store Temporary Stocker;05/07/2002;02/25/1955;Partial High School;M
+481;Tench, Vanessa;Store Temporary Stocker;07/23/2001;11/07/1968;High School Degree;M
+482;Brink, Carol;Store Temporary Stocker;02/22/2003;01/21/1957;Partial High School;M
+483;Reynolds, Adam;Store Assistant Manager;07/22/2002;02/17/1971;Bachelors Degree;F
+484;Posner, Constance;Store Shift Supervisor;11/18/2001;09/16/1965;Bachelors Degree;F
+485;Hapke, William;Store Shift Supervisor;10/16/2002;04/28/1966;Partial College;M
+486;Huff, Joshua;Store Shift Supervisor;10/04/2001;07/26/1966;Bachelors Degree;F
+487;Brown, Carolee;Store Permanent Butcher;03/11/2001;02/27/1975;Partial College;M
+488;Giglio, Frances;Store Permanent Butcher;02/03/2002;05/05/1957;High School Degree;M
+489;Sherwood, Irma;Store Information Systems;12/15/2001;06/30/1964;High School Degree;F
+490;Becker, Benjamin;Sales Executive;03/23/2001;01/17/1961;PhD. Marketing;F
+491;Tedford, Chad;Sales Executive;01/24/2001;08/11/1962;PhD. Marketing;M
+492;Roy, Luke;Sales Executive;06/16/2001;03/19/1965;PhD. Marketing;M
+493;Holloway, Jean;Sales Executive;01/25/2002;09/27/1967;PhD. Marketing;F
+494;Trau, Olga;Sales Executive;05/13/2001;10/29/1964;PhD. Marketing;M
+495;Carnes, Steve;Sales Executive;07/12/2002;10/05/1960;PhD. Marketing;M
+496;Potts, Betty;Sales Executive;11/10/2002;12/16/1955;PhD. Marketing;M
+497;Kozlowski, Edward;Sales Executive;02/14/2002;04/28/1965;PhD. Marketing;M
+498;Looney, Sharon;Sales Executive;09/20/2002;01/09/1967;PhD. Marketing;M
+499;Magenheimer, Patrick;Sales Executive;02/04/2002;07/30/1954;PhD. Marketing;F
+500;Hofsetz, Sue;Sales Executive;08/04/2001;05/18/1966;PhD. Marketing;F
+501;Gilliat, Janet;Sales Executive;02/12/2002;11/28/1968;PhD. Marketing;F
+502;Wojcik, Charlene;Store Temporary Checker;05/30/2002;03/25/1959;High School Degree;F
+503;Wolf, Eunice;Store Temporary Checker;12/21/2002;08/03/1959;Bachelors Degree;F
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
